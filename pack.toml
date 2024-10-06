@@ -1,0 +1,13 @@
+name = "Bombermons"
+author = "Bomber and Jeef"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4069afa6f0ee9fa43a6e73cb3835f84b64cd895c0368a023b4ec607ba6fcda98"
+
+[versions]
+forge = "39.2.42"
+minecraft = "1.16.5"

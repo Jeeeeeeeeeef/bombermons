@@ -1,0 +1,3 @@
+# Exclude the packwiz executable
+*.exe
+*.bat
