@@ -1,0 +1,13 @@
+name = "Botany Pots - Pixelmon Compat"
+filename = "BotanyPots-Pixelmon-1.16.5-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "67e702dacbab2dff9fea48003730e3cb30adcb0a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3989318
+project-id = 670810

@@ -1,0 +1,13 @@
+name = "Biomes in Jars [Forge]"
+filename = "biomesinjars_forge_1.1.3_MC_1.16.2-1.16.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "41b9c6a608e29106d00b9b64613ca2fb792e4b13"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4504544
+project-id = 684938

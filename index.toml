@@ -1,2 +1,185 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "8dcfdd556df68cc338bdd9436a4e8face08a08cb114bffc5c66b43c71d80ddbc"
+metafile = true
+
+[[files]]
+file = "mods/biomes-in-jars-forge.pw.toml"
+hash = "8c5c5389b4ffdcf79eff719b8500c94534e5d38a045b60727fe00ae637309667"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "47b90fdea54bb7b8b04680eddcddd2aec88603b0db1832356b54b1484e6df1f3"
+metafile = true
+
+[[files]]
+file = "mods/botany-pots-pixelmon-compat.pw.toml"
+hash = "ba6cf65d73ac81963d1d5d1d870d81a1ffb9f3696f45c854f8dc5f8f2effea2e"
+metafile = true
+
+[[files]]
+file = "mods/botany-pots.pw.toml"
+hash = "36fa835f69b588016999a2df27f0d4ae073757461464307dcbec55ad11d79931"
+metafile = true
+
+[[files]]
+file = "mods/cofh-core.pw.toml"
+hash = "1e95c8b5e4154d24345875c263488989d8222e24065ab21cde7aaf145e750e2b"
+metafile = true
+
+[[files]]
+file = "mods/construction-wand.pw.toml"
+hash = "43c3d098af2f3f60ede43808d64ddeb057a019ae91096c144a3c9ea80d330bb2"
+metafile = true
+
+[[files]]
+file = "mods/crafting-tweaks.pw.toml"
+hash = "586883e0e232116f6804de5bb29f28f8a0c30a19087f4b16804a32f6672b89fd"
+metafile = true
+
+[[files]]
+file = "mods/framedblocks.pw.toml"
+hash = "d83366ef8ecfcbfdaa6bc00748c854a4497b0665e0d253b3199012661d4408c5"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "d0a16178788e4654888451ccd63ab9162f615415878c4252016f47194fc03ce5"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-forge.pw.toml"
+hash = "18d5f2986bb65ff6675b5e367a0bcca9d375766d3e3e94f9ed2026e9e28cf058"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ranks-forge.pw.toml"
+hash = "b87fb6069813cab76fee7fd72534d6f9412f15e77662d8444029707c54e2d51a"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "ebbac41c71dd200a717260e4993be59c0d2ac6c9e9a784aa8c84a21cf27c9924"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "f1785b6fb4b3bd26594e173737a653a237f9e9e9c0d330faa56bdf0225217d75"
+metafile = true
+
+[[files]]
+file = "mods/iron-chests.pw.toml"
+hash = "68995b9ea503260f1a5dafe4667b028fa44c3079d50c7372d85f842db274088e"
+metafile = true
+
+[[files]]
+file = "mods/item-filters.pw.toml"
+hash = "3a2ad9ada10bb2b86ebce984b6755129b22dcca2d9d03faded820be2bed5c368"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "c7ec1444792e09cced117d3ad2d27f2c4d952dd1989b3110ef98c4970f228ab4"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "33432e21c9c587999e6c4f1540ba488358bde9915236e8383b53af984a59a947"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "08ca57fdd24147b50e3010ad885831c3dab918f1bcb77807d79d80d403dbf16c"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "54a05a04fc4c2af06ed779b5269cd001ce8188e825ac11bd8895551d3863285b"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "22227fddbcc0678b5bf849d6a735a6bb2b883bcc1cf0a6afb8a939ae740422b8"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "04a92a819f7c3dff89382baf5c5fb25c1386da08ead8510ea009aa1ccc8daf02"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "cca1d003d1f4ff138be6a04cedac1f97e1f4a85862d5958d97aed82e951a78ff"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-biomes-youll-go.pw.toml"
+hash = "13c7d44940110bb9d8149f3e2403356e1fe33c1eece4a197bcb5835cdb1f3de4"
+metafile = true
+
+[[files]]
+file = "mods/open-terrain-generator.pw.toml"
+hash = "5e9c3b25bddcc8528b4edddad5e14ce81c960cd25d223c2e86a423c82539a9a9"
+metafile = true
+
+[[files]]
+file = "mods/pixelcringe-pixelmon-patches.pw.toml"
+hash = "4f1445ea041c1b8e9055c768aefe860a7445c0b909773d1b1fa5a1488b67c945"
+metafile = true
+
+[[files]]
+file = "mods/pixelmon.pw.toml"
+hash = "e9e616ea7b4b8ac592218977937a8d282510c1072cdf8ae736afee3f3ea335a5"
+metafile = true
+
+[[files]]
+file = "mods/pixelmoninfo-1.0.0.jar"
+hash = "d5da02140b4e0178e4a9580c339b8d9e69bc9bc7a48bbacf299f5fecd08d7def"
+
+[[files]]
+file = "mods/refined-storage-addons.pw.toml"
+hash = "93ca2e3426f8df20817d08d3414a75137fed5dc07fd192385e2ee10127b6ac3e"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage.pw.toml"
+hash = "0e6e7f0f709201da5740eeb452f66fe1f58e73587a2bdb31a5e8170899abe253"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "3f7bdf144b09082021c01cce53753e045f7d2077912057c4f547f3cfe5854e81"
+metafile = true
+
+[[files]]
+file = "mods/thermal-expansion.pw.toml"
+hash = "f312dfc5bc8805e77065dc2db25eebf2bd53f8c068d18c21952018cbbe82de77"
+metafile = true
+
+[[files]]
+file = "mods/thermal-foundation.pw.toml"
+hash = "068c5ac6f7be4330d30b6e298c94db4f28b084d854185b389370b6051b8b204b"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-vistas.pw.toml"
+hash = "7831a29aa7437f15313174cd9b017c0b0ffbf646bd821067c738a0fb009bbfd1"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "4931c4e65980ea1a95a61b35b18e7e893d59befce9c0764c387aa7773c44b15f"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "48f2ad2da440e7fd26fc3a7bf6687346599972e814d460fbdf6f38b33049a3df"
+metafile = true
+
+[[files]]
+file = "mods/yawp.pw.toml"
+hash = "8598ec2a6c2062c028d4f35e913fefcf35ec3ba24348909437527b8f204c086b"
+metafile = true
