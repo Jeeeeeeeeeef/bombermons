@@ -1,13 +1,13 @@
 name = "Yet Another World Protector"
 filename = "yawp-1.16.5-0.0.4.1-beta1-forge.jar"
-side = "server"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/py6EMmAJ/versions/SLwcNxYO/yawp-1.16.5-0.0.4.1-beta1-forge.jar"
-hash-format = "sha512"
-hash = "ffd180ce5462c90da30884187cc91d3501e4abb3dcd3a85127f2502b33e8a49b46d0a66bd3205e59fba7ddf609cbc153adebc0cdbd10a86e32b942db4d9b54c5"
+hash-format = "sha1"
+hash = "45711deef3e8b554d747b86941e08d4c6635989d"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "py6EMmAJ"
-version = "SLwcNxYO"
+[update.curseforge]
+file-id = 5739390
+project-id = 663276

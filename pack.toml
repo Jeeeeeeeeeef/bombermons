@@ -1,12 +1,12 @@
 name = "Bombermons"
 author = "Bomber and Jeef"
-version = "1.0.2"
+version = "1.0.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "987a0f6dd8efbbd491470e9de750ba50d798da450a0e36555b0a7d37c84bf43e"
+hash = "1e63033c62250a5f73866b693af3d213bc2fe76669d26808c2b62d78cf05bb1b"
 
 [versions]
 forge = "36.2.42"
